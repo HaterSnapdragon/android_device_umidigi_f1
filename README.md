@@ -3,9 +3,7 @@ LineageOS Device Tree for UMIDIGI F1
 
 Dependencies of building:
 
-[Patches for MTK devices](https://github.com/PeterCxy/mtk_patches)  
-[Re-implemented MTK Telephony interfaces](https://github.com/PeterCxy/vendor_mediatek_hardware_telephony-ext)  
-[Reverse-engineered MTK radio HIDL](https://github.com/PeterCxy/vendor_mediatek_hardware_interfaces)
+[Patches for MTK devices](https://github.com/PeterCxy/mtk_patches)
 
 Basic   | Spec Sheet
 -------:|:-------------------
