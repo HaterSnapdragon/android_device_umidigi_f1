@@ -92,6 +92,9 @@ BOARD_PLAT_PRIVATE_SEPOLICY_DIR += $(DEVICE_PATH)/sepolicy/private
 # Soong
 PRODUCT_SOONG_NAMESPACES += vendor/umidigi/F1
 
+# System.prop
+TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
+
 # Treble
 BOARD_VNDK_VERSION := current
 PRODUCT_TARGET_VNDK_VERSION := 28
