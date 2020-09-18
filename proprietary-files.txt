@@ -1,3 +1,6 @@
+# RIL
+vendor/lib64/libmtk-ril.so:lib64/libmtk-ril.so
+
 # Nfc
 -app/Nfc_st/Nfc_st.apk
 bin/nfcstackp
