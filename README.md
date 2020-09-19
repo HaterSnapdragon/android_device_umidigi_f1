@@ -20,4 +20,4 @@ Display | FHD+ 2340 x 1080, 6.3" IPS LTPS
 Rear Camera | 16MP f/1.7 1.12µm PDAF + 8MP, Dual LED Flash
 Front Camera| 16MP f/2.2 1.0µm
 
-![MT6771](https://www.umidigi.com/new/Images/f1Overview/c2.jpg)
+(https://www.umidigi.com/new/Images/f1Overview/c2.jpg)
