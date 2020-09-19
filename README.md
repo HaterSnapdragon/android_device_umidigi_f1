@@ -9,7 +9,7 @@ Basic   | Spec Sheet
 -------:|:-------------------
 CPU     | Octa-core 1.989GHz 4x Cortex-A73 + 4x Cortex-A53
 Chipset | Mediatek MT6771 Helio P60
-GPU     | 800MHz Mali-G72
+GPU     | 800MHz Mali-G72 MP3
 Memory  | 4 GB DDR4X 1800Mhz
 Shipped Android Version | 9.0 Pie
 Storage | 128 GB eMMC
