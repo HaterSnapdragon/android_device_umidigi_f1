@@ -191,5 +191,5 @@
     <string translatable="false" name="config_mainBuiltInDisplayCutout">M82,0H-82V23.58l1,.94C-56.9,47.9-46,80-2,80S52.9,51.38,77,28c1.6-1.56,3.27-3,5-4.42Z</string>
     
     <!-- Flag specifying whether VoLTE is available on device -->
-     <bool name="config_device_volte_available">false</bool>>
+    <bool name="config_device_volte_available">false</bool>>
 </resources>
