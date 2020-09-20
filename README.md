@@ -33,7 +33,7 @@ Screen resolution | 2340 x 1080 pixels FHD+
 Pixel density | 409 PPI
 Video | 1080p 30fps, 720p 30fps
 Primary Camera | 16MP f/1.7 1.12µm PDAF + 8MP, Dual LED Flash
-Secondary Camera | 16.0MP, 5-element lens, F/2.0 aperture, Selfie countdown, Face recognition
+Secondary Camera | 16MP f/2.0 1.0µm
 Quick charging | Yes, 18W
 Wifi | Yes, IEEE802.11 a/b/g/n, Supports 5G Wi-Fi Signal / Wi-Fi Direct / Wi-Fi Display
 Bluetooth | v4.2, Bluetooth HID
