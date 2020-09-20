@@ -32,6 +32,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     init.mt6771.rc \
     fstab.mt6771
+    
+#Symbols
+PRODUCT_PACKAGES += \
+    libshim_showlogo
 
 # Keylayouts
 PRODUCT_COPY_FILES += \
