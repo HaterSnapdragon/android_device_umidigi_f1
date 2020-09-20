@@ -17,18 +17,18 @@ CPU     | Octa-core 1.989GHz 4x Cortex-A73 + 4x Cortex-A53
 AI Cores | 2 cores APU
 Platform | MediaTek MT6771
 GPU     | Mali G72 MP3 800MHz
-Arch | Arm64
-RAM | 4GB LPDDR4X 11800Mhz
+Architecture | Arm64
+RAM | 4GB LPDDR4X 1800Mhz
 Shipped Android Version | 	Android 9.0 Pie
-Storage | 64 GB DDR4X (expandable storage up to 256GB (VFAT))
+Storage | 128GB eMMc (expandable storage up to 256GB (VFAT))
 Battery | 5150 mAh
 Height | 156.9 mm
 Width | 74.3 mm
 Thickness | 8.8 mm
 Weight | 193g
-Display | 6.3" (16.002 cm) Waterdrop Advanced In-cell Display
+Display | 6.3" (16.002 cm) LTPS IPS Waterdrop Advanced In-cell Display
 Aspect Ratio | 19.5:9
-Screen Ratio | 92.7%
+Screen Ratio | 83.7%
 Screen resolution | 2340 x 1080 pixels FHD+
 Pixel density | 409 PPI
 Video | 1080p 30fps, 720p 30fps
@@ -37,7 +37,7 @@ Secondary Camera | 16MP f/2.0 1.0µm
 Quick charging | Yes, 18W
 Wifi | Yes, IEEE802.11 a/b/g/n, Supports 5G Wi-Fi Signal / Wi-Fi Direct / Wi-Fi Display
 Bluetooth | v4.2, Bluetooth HID
-USB type C | Yes
+USB | 2.0, Type-C 1.0 reversible connector
 NFC | Yes, supports read/write, card emulation, and P2P
 Network support | Both SIM slots are compatible with 4G, support 4G VoLTE in both slots simultaneously
 GPRS | Available
